@@ -23,7 +23,6 @@ const QuizModal = ({ questions, onComplete }) => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
-      // Quiz complete - calculate results
       onComplete(calculateResults(answers));
     }
   };
