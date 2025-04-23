@@ -1,0 +1,61 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "How do you currently handle your business or work?",
+      "options": [
+        { "value": "solo", "label": "I do it all myself" },
+        { "value": "part-time", "label": "I have part-time helpers" },
+        { "value": "team", "label": "I have a full/partial team" }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "What's your biggest bottleneck?",
+      "options": [
+        { "value": "time", "label": "Time" },
+        { "value": "knowledge", "label": "Knowledge" },
+        { "value": "consistency", "label": "Consistency" },
+        { "value": "quality", "label": "Quality" }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Which best describes your growth stage?",
+      "options": [
+        { "value": "starting", "label": "Just starting out" },
+        { "value": "growing", "label": "Growing steadily" },
+        { "value": "scaling", "label": "Ready to scale" },
+        { "value": "managing", "label": "Managing complexity" }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "What kind of support do you prefer?",
+      "options": [
+        { "value": "self", "label": "I like doing it myself" },
+        { "value": "guidance", "label": "I want someone to guide me" },
+        { "value": "handled", "label": "I want someone to handle it" }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How do you feel about managing a team?",
+      "options": [
+        { "value": "overwhelmed", "label": "Overwhelming" },
+        { "value": "learning", "label": "I'm learning" },
+        { "value": "good", "label": "I'm good with people" },
+        { "value": "experienced", "label": "I already manage one" }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Budget preference for support?",
+      "options": [
+        { "value": "minimal", "label": "Minimal, I'll DIY" },
+        { "value": "mid", "label": "Mid-range, with help" },
+        { "value": "premium", "label": "Premium, done for me" }
+      ]
+    }
+  ]
+}
